@@ -1,0 +1,2 @@
+# QRKod
+QR Kod Oluşturma
