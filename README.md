@@ -1,5 +1,9 @@
 # QRKod
 
+## Screenshot
+
+![QR Code Generator Screenshot](QRCode.png)
+
 QR Kod Oluşturma Uygulaması
 
 Bu proje, Visual Studio kullanılarak geliştirilmiş bir QR kod oluşturma uygulamasıdır. Kullanıcılar uygulama üzerinden metin, sayı veya byte formatında veri girerek hızlı bir şekilde QR kod oluşturabilir. Ayrıca doğrulama seviyesi, versiyon ve ölçek gibi QR kod parametreleri ayarlanabilmektedir. Oluşturulan QR kod ekranda görüntülenebilir ve kaydedilebilir. Proje, QR kod oluşturma mantığını ve masaüstü uygulama geliştirmeyi öğrenmek amacıyla geliştirilmiştir.
